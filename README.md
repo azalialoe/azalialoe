@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello there 👋 I'm Azalia
 
-<!--
-**azalialoe/azalialoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer based in Toronto, Canada.
+* 😄 Pronouns: She/Her
+* 🔭 I’m currently working on fixing old projects (and portfolio) while (trying to) create new projects. We'll see how that goes 
+* 🌱 I’m currently learning: mostly **JS & React** for now but I'll never forget my roots **HTML & CSS**
+* 💬 Ask me about: Anything...?
+* ⚡ Fun fact: I can burp on purpose :)
 
-Here are some ideas to get you started:
+* Random fact about me: I love watching sports!
+* One of the best moments in my life (if you know, you know): 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![kawhi-yelling](https://media.giphy.com/media/QuUAMw3daPVlRyCjd0/giphy.gif)
+
+## Connect With Me
+* GitHub - here, duuuhhh
+* Twitter - [click here!](https://twitter.com/AzaliaLoeciano)
+* LinkedIn - [now click this one!](https://linkedin.com/in/azalialoeciano)
+
+
