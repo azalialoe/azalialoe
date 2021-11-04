@@ -1,6 +1,6 @@
 ## Hello there 👋 I'm Azalia
 
-I'm a front-end developer (and proud Juno College alumni) based in Toronto, Canada. 
+I'm a front-end developer based in Toronto, Canada. 
 * 😄 Pronouns: She/Her
 * 🔭 I’m currently working on fixing old projects (and portfolio) while (trying to) create new projects. We'll see how that goes 
 * 🌱 I’m currently learning: mostly **JS & React** for now but I'll never forget my roots **HTML & CSS**
